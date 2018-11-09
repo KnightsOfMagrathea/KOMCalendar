@@ -2,6 +2,7 @@
 ## Title: KnightsOfMagrathea Calendar
 ## Author: Maxine
 ## Version: 1
+## SavedVariables: calendar
 
 KOMCalendar.xml
 KOMCalendar.lua

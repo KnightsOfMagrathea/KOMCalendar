@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: KnightsOfMagrathea Calendar
+## Author: Maxine
+## Version: 1
+
+KOMCalendar.xml
+KOMCalendar.lua
